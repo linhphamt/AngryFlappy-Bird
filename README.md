@@ -10,8 +10,8 @@ Features implemented
 5. **Floor:** Scrolls through the scene consistently during the game until a collision happens. The game is over, and score is reset to 0 if Koya collides with the floor. Koya stops moving immediately upon collision.
 6. **Background:** Changes from night to day periodically.
 7. **UI panel:** UI panel: Provides information about the obstacles and bonus objects, has the button that controls the start of the game and wing flap, and the options for difficulty level selection.
-8. **Score:** Points earned are kept track of, and there are three lives that can be lost when Kiki runs into a pipe, carrot, or the floor.
-9. **Sound effects:** For various events including getting through pipes, collecting avocados, autopiloting, and hitting an obstacle.
+8. **Score:** Points earned are kept track of, and there are three lives that can be lost when Koya runs into a pipe, carrot, or the floor.
+9. **Sound effects:** For various events, including getting through pipes, collecting avocados, autopiloting, and hitting an obstacle.
 
 
 Setup
